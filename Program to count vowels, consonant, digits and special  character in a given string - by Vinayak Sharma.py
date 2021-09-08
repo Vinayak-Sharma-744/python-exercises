@@ -49,7 +49,7 @@ def countCharacterType(str):
     print("spaces:", spaces)
     print("Special Character:", specialChar)
     
-    # Driver function.
+    # Drive function.
 str = str(input('enter the string'))
 countCharacterType(str)
 
