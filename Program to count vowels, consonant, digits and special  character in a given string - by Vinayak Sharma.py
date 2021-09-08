@@ -1,6 +1,6 @@
-# Python3 Program to count vowels,consonant, digits and special character in a given string.
+# Python3 Program to count vowels,consonant, digits and special character in a given string
 
-# Declare a Function to count number of vowels, consonant, digits and special character in a string.
+# Declare a Function to count number of vowels, consonant, digits and special character in a string
 
 def countCharacterType(str):
     
